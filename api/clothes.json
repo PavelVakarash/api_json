@@ -1,0 +1,202 @@
+{
+    "clothes": [
+        {
+            "id": 1,
+            "brand": "Chapaty",
+            "name": "KIMONO KIM IN VISCOSE (LENZING™ ECOVERO™)",
+            "category": "Men/Coats",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "color": [
+                "white-blue",
+                "pistacio leaves",
+                "dark-green"
+            ],
+            "fabric": "Viscose",
+            "material": "100% VISCOSE (LENZING™ ECOVERO™)",
+            "collection": "FS2023",
+            "length": 118,
+            "sleeve length": 48,
+            "price": 89.00,
+            "stock": 15
+        },
+        {
+            "id": 2,
+            "brand": "Chapaty",
+            "name": "DRESS KASSY IN VISCOSE (LENZING™ ECOVERO™)",
+            "category": "Ladies/Dresses-tunics",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "color": [
+                "white-blue",
+                "pistacio leaves",
+                "navy leaves"
+            ],
+            "fabric": "Viscose",
+            "material": "100% VISCOSE (LENZING™ ECOVERO™)",
+            "collection": "FS2023",
+            "length": 90,
+            "sleeve length": 70,
+            "price": 75.00,
+            "stock": 25
+        },
+        {
+            "id": 3,
+            "brand": "Chapaty",
+            "name": "DRESS DRAGANA FROM ORGANIC GOTS JERSEY",
+            "category": "Ladies/Dresses-tunics",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "color": [
+                "blue",
+                "black",
+                "green"
+            ],
+            "fabric": "Jersey",
+            "material": "95% COTTON (ORGANIC, GOTS) / 5% SPANDEX",
+            "collection": "FS2023",
+            "length": 103,
+            "sleeve length": 9,
+            "price": 75.00,
+            "stock": 5
+        },
+        {
+            "id": 4,
+            "brand": "Chapaty",
+            "name": "DRESS DRAGANA FROM ORGANIC GOTS JERSEY",
+            "category": "Ladies/Dresses-tunics",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "color": [
+                "blue",
+                "black",
+                "green",
+                "burgundy",
+                "navy"
+            ],
+            "fabric": "Jersey",
+            "material": "95% COTTON (ORGANIC, GOTS) / 5% SPANDEX",
+            "collection": "FS2023",
+            "length": 100,
+            "sleeve length": 9,
+            "price": 75.00,
+            "stock": 8
+        },
+        {
+            "id": 5,
+            "brand": "Chapaty",
+            "name": "DRESS DORSA FROM ORGANIC GOTS JERSEY",
+            "category": "Ladies/Dresses-tunics",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "color": [
+                "blue",
+                "black",
+                "green",
+                "burgundy",
+                "navy"
+            ],
+            "fabric": "Jersey",
+            "material": "95% COTTON (ORGANIC, GOTS) / 5% SPANDEX",
+            "collection": "FS2023",
+            "length": 100,
+            "sleeve length": 9,
+            "price": 85.00,
+            "stock": 18
+        },
+        {
+            "id": 6,
+            "brand": "Chapaty",
+            "name": "DRESS DORSA FROM ORGANIC GOTS JERSEY",
+            "category": "Men/Jackets",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "color": [
+                "blue",
+                "black"
+            ],
+            "fabric": "Merino wool",
+            "material": "Outer fabric: 100% wool (merino) Lining: 100% cotton (organic)",
+            "collection": "HW2022",
+            "length": 71,
+            "sleeve length": 73,
+            "price": 189.00,
+            "stock": 5
+        },
+        {
+            "id": 7,
+            "brand": "Chapaty",
+            "name": "BROCADE COAT MASON",
+            "category": "Men/Coats",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "color": [
+                "blue",
+                "black"
+            ],
+            "fabric": "Brocade",
+            "material": "60% POLYESTER / 40% VISCOSE",
+            "collection": "HW2022",
+            "length": 90,
+            "sleeve length": 69,
+            "price": 159.00,
+            "stock": 7
+        },
+        {
+            "id": 8,
+            "brand": "Chapaty",
+            "name": "BROCADE COAT MASON",
+            "category": "Ledies/Skirts",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "color": [
+                "blue",
+                "black",
+                "green",
+                "red"
+            ],
+            "fabric": "Jersey",
+            "material": "60% POLYESTER / 40% VISCOSE",
+            "collection": "FS2023",
+            "length": 68,
+            "price": 55.00,
+            "stock": 7
+        }
+    ]
+}
